@@ -1,1 +1,3 @@
-# new1
+hi
+pwd
+ls
